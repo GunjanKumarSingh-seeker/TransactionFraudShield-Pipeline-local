@@ -75,3 +75,10 @@ TransactionFraudShield-Pipeline/
 └── transaction_simulator.py  # Simulated telemetry stream generator
 
 
+## 📊 Live Dashboard & Pipeline Demo
+
+![Fraud Shield Live Dashboard](/Users/gunjan.kumar/Documents/TransactionFraudShield-Pipeline/docs/assets/Screenshot 2026-09-21 at 10.18.08 PM.png)
+![Fraud Shield Live Dashboard](/Users/gunjan.kumar/Documents/TransactionFraudShield-Pipeline/docs/assets/Screenshot 2026-09-21 at 10.18.41 PM.png)
+![Fraud Shield Live Dashboard](/Users/gunjan.kumar/Documents/TransactionFraudShield-Pipeline/docs/assets/Screenshot 2026-09-21 at 10.18.56 PM.png)
+![Fraud Shield Live Dashboard](/Users/gunjan.kumar/Documents/TransactionFraudShield-Pipeline/docs/assets/Screenshot 2026-09-21 at 10.19.21 PM.png)
+![Fraud Shield Live Dashboard](/Users/gunjan.kumar/Documents/TransactionFraudShield-Pipeline/docs/assets/Screenshot 2026-09-21 at 10.19.43 PM.png)
