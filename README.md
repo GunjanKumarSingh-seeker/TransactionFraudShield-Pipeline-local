@@ -77,7 +77,7 @@ TransactionFraudShield-Pipeline/
 
 ## 📊 Live Dashboard & Pipeline Demo
 
-![Fraud Shield Live Dashboard](docs/assets/1.png)
+![Fraud Shield Live Dashboard](docs/assets/s1.png)
 ![Fraud Shield Live Dashboard](docs/assets/Screenshot%202026-09-21%20at%2010.18.41%20PM.png)
 ![Fraud Shield Live Dashboard](docs/assets/Screenshot%202026-09-21%20at%2010.18.56%20PM.png)
 ![Fraud Shield Live Dashboard](docs/assets/Screenshot%202026-09-21%20at%2010.19.21%20PM.png)
