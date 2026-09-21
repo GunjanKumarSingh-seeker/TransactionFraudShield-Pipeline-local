@@ -73,6 +73,7 @@ TransactionFraudShield-Pipeline/
 ├── requirements.txt          # Dependency list
 ├── rules.py                  # Real-time feature engineering & risk scoring
 └── transaction_simulator.py  # Simulated telemetry stream generator
+```
 
 
 ## 📊 Live Dashboard & Pipeline Demo
