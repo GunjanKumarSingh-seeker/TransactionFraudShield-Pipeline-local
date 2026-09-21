@@ -11,6 +11,9 @@ venv/
 data/
 logs/
 tmp/
+*.db
+*.parquet
+*.jsonl
 *.parquet
 *.delta/
 .DS_Store
@@ -19,7 +22,3 @@ tmp/
 dist/
 build/
 *.egg-info/
-terraform.tfstate
-terraform.tfstate.*
-.terraform/
-.terraform.lock.hcl
